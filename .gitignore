@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.venv/
+venv/
+env/
+*.egg-info/
+
+# IDE / local files
+.vscode/
+.idea/
+.codex
+.agents/
+*.swp
+*.swo
+
+# Data and experiment artifacts
+data/
+work_dirs/
+work_dirs_*/
+Manuscript/
+
+# Model checkpoints and generated predictions
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.pkl
+*.pickle
+last_checkpoint
+
+# Logs / visualization outputs
+*.log
+*.json
+events.out.tfevents*
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.bmp
+
+# Accidental pip constraint/output files
+=*
