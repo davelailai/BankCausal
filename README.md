@@ -2,7 +2,11 @@
 
 Official implementation of **Beyond Correlation: Causal Intervention for Multi-Label Medical Image Diagnosis**, accepted by **IEEE Transactions on Medical Imaging**.
 
-Please refer to our paper for the full method, experimental setup, and analysis. The DOI and BibTeX citation will be updated after the Early Access version is available on IEEE Xplore.
+Please refer to our paper for the full method, experimental setup, and analysis.
+
+Authors: Jianyang Xie, Yitian Zhao, Xiuju Chen, Yanda Meng, He Zhao, Uazman Alam, Xiaoxin Li, and Yalin Zheng.
+
+DOI: [10.1109/TMI.2026.3698052](https://doi.org/10.1109/TMI.2026.3698052)
 
 ## Overview
 
@@ -96,8 +100,11 @@ To enable test-time augmentation, append `--tta`.
 If this repository is useful for your research, please refer to:
 
 ```text
-Beyond Correlation: Causal Intervention for Multi-Label Medical Image Diagnosis.
-IEEE Transactions on Medical Imaging, accepted.
+Jianyang Xie, Yitian Zhao, Xiuju Chen, Yanda Meng, He Zhao, Uazman Alam,
+Xiaoxin Li, and Yalin Zheng. Beyond Correlation: Causal Intervention for
+Multi-Label Medical Image Diagnosis.
+IEEE Transactions on Medical Imaging, 2026.
+DOI: 10.1109/TMI.2026.3698052.
 ```
 
 ## Notes
